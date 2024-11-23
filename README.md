@@ -8,4 +8,4 @@ This was part of a greater project comparing the effectiveness of a Logistic Reg
 Although the final conclusions are not available in this repository, even with the implementation of the various Neural Networks methodologies, the Logisitc Regression demonstrated slighlty better AUC against the best Neural Network methodology, with the added benefit of being much less computationally costly.  
 
 
-NOTE: The Logisitc Regression method in which I compated the Neural network method utilized the median pixels of each RGB panel and was subsequently trained on these three features only. 
+NOTE: The Logisitc Regression method in which I compared the Neural network method utilized the median pixels of each RGB panel and was subsequently trained on these three features only. 
