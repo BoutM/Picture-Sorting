@@ -1,5 +1,5 @@
 ---
-title: "Neural Network - Columbia Pictures Final Report"
+title: "Neural Network - Columbia Pictures"
 author: "Maxime Bouthillier"
 date: "2024-04-17"
 output: pdf_document
